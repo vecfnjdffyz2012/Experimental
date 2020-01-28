@@ -11,6 +11,7 @@ namespace lab_10
         static void Main(string[] args)
         {
             Console.WriteLine("Перове знакомство с GitHub");
+            Console.WriteLine("Проверка изменений на сервере");
         }
     }
 }
